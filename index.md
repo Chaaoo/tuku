@@ -8,4 +8,5 @@ resources:
     cover: true
 - src: '**.jpeg'
 - src: '**.jpg'
+- src: '**.png'
 ---
